@@ -1,3 +1,4 @@
 # myfrstrepo
-this is my first repositry
+this is my first repository
+<br>
 author-Shreyas
